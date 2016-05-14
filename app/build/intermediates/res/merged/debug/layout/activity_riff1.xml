@@ -1,0 +1,88 @@
+<!-- activity_riff1.xml
+Primary Layout file for riff 1 activity
+Created by: Alex Totheroh
+Created on: 3/1/2015
+Last Modified by: Alex Totheroh
+Last Modified on: 3/6/2015
+Assignment/Project: A290 Android Development Final Project
+Part of: BluesGuitarRiffs, refers to Riff1Activity.java
+-->
+
+<!-- outer container is a scroll view so the user can scroll if needed -->
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto" 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+	<LinearLayout
+	    android:id="@+id/LinearLayout1"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical"
+	    android:paddingBottom="@dimen/activity_vertical_margin"
+	    android:paddingLeft="@dimen/activity_horizontal_margin"
+	    android:paddingRight="@dimen/activity_horizontal_margin"
+	    android:paddingTop="@dimen/activity_vertical_margin" >
+
+    	<!-- displays title -->
+    	<TextView
+    	    android:layout_width="wrap_content"
+    	    android:layout_height="wrap_content"
+    	    android:layout_gravity="center"
+    	    android:text="@string/riff1title"
+    	    android:textColor="#006AA8"
+    	    android:textSize="40sp"
+    	    android:textStyle="bold|italic" />
+
+    	<!-- displays instruction to go to landscape to zoom in on guitar tab -->
+    	<TextView
+    	    android:id="@+id/textView1"
+    	    android:layout_width="wrap_content"
+    	    android:layout_height="wrap_content"
+    	    android:layout_gravity="center"
+    	    android:layout_marginTop="20dp"
+    	    android:text="@string/subActivityHint"
+    	    android:textSize="12sp" />
+
+    	<!-- this container points to the guitar tab -->
+    	<ImageView
+    	    android:id="@+id/imageView1"
+    	    android:layout_width="wrap_content"
+    	    android:layout_height="wrap_content"
+    	    android:layout_marginTop="-20dp"
+    	    android:layout_gravity="center"
+    	    android:src="@drawable/riff1tab" />
+
+    	<!-- play button is a button with the background set to an image in the drawable folder -->
+    	<Button
+    	    android:id="@+id/playbutton"
+    	    android:layout_width="76dp"
+    	    android:layout_height="78dp"
+    	    android:layout_gravity="center"
+    	    android:background="@drawable/playbuttonsel"
+    	    android:text="" />
+    	
+    	<com.google.android.gms.ads.AdView
+        	android:id="@+id/adView"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:layout_marginTop="20dp"
+        	android:layout_gravity="center_horizontal"
+        	ads:adSize="BANNER"
+        	ads:adUnitId="@string/riff1banner">
+    	</com.google.android.gms.ads.AdView>
+
+    	<!-- back button is a button with the background set to an image in the drawable folder -->
+    	<Button
+    	    android:id="@+id/backbutton"
+    	    android:layout_width="66dp"
+    	    android:layout_height="62dp"
+    	    android:layout_gravity="bottom|left"
+    	    android:layout_marginTop="175dp"
+    	    android:background="@drawable/backbuttonsel"
+    	    android:text="" />
+
+	</LinearLayout>
+	
+</ScrollView>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?> 
+
+<!-- playbuttonsel.xml
+Primary Layout file for the play button
+Created by: Alex Totheroh
+Created on: 3/1/2015
+Last Modified by: Alex Totheroh
+Last Modified on: 3/6/2015
+Assignment/Project: A290 Android Development Final Project
+Part of: BluesGuitarRiffs, refers to Riff[x]Activity.java
+-->
+
+<!-- This file's only purpose is to 'animate' the play button.  It does this by 
+displaying a slightly different image depending on whether the button is 
+clicked or not. 
+-->
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android"> 
+    <item android:state_focused="true" android:state_pressed="false" android:drawable="@drawable/playbuttonraw" /> 
+    <item android:state_focused="true" android:state_pressed="true" android:drawable="@drawable/playbuttondown" /> 
+    <item android:state_focused="false" android:state_pressed="true" android:drawable="@drawable/playbuttondown" /> 
+    <item android:drawable="@drawable/playbuttonraw" /> 
+</selector>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="21"
+    density="xxhdpi"
+    format="7"
+    timestamp="196979404366724" >
+
+    <task
+        name="javac"
+        duration="1446" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1640" />
+    <task
+        name="verifier"
+        duration="503" />
+
+    <artifact
+        location="C:\Users\Alex\StudioProjects\BluesGuitarRiffs1\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="196979404366724" >
+        <artifact
+            location="C:\Users\Alex\StudioProjects\BluesGuitarRiffs1\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

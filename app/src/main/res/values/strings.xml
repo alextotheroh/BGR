@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- strings.xml
+Primary Strings file for this Project
+Created by: Alex Totheroh
+Created on: 3/1/2015
+Last Modified by: Alex Totheroh
+Last Modified on: 3/6/2015
+Assignment/Project: A290 Android Development Final Project
+Part of: BluesGuitarRiffs, refers to MainActivity.java
+-->
+
+<resources>
+
+    <string name="app_name">BluesGuitarRiffs</string>
+    <string name="appTitle">Blues Guitar Riffs</string>
+    <string name="HomeTitle">Pick a riff to get started!  All riffs are in the key of C minor blues.</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_riff1">Riff1Activity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_riff2">Riff2Activity</string>
+    <string name="title_activity_riff3">Riff3Activity</string>
+    <string name="title_activity_riff4">Riff4Activity</string>
+    <string name="title_activity_riff5">Riff5Activity</string>
+    <string name="title_activity_riff6">Riff6Activity</string>
+    <string name="title_activity_riff7">Riff7Activity</string>
+    <string name="title_activity_riff8">Riff8Activity</string>
+    <string name="title_activity_riff9">Riff9Activity</string>
+    <string name="title_activity_riff10">Riff10Activity</string>
+    <string name="riff1title">Riff 1</string>    
+    <string name="playbutton">PLAY</string>
+    <string name="backbutton">BACK TO RIFFS</string>
+    <string name="riff2title">Riff 2</string>
+    <string name="riff3title">Riff 3</string>
+    <string name="riff4title">Riff 4</string>
+    <string name="riff5title">Riff 5</string>
+    <string name="riff6title">Riff 6</string>
+    <string name="riff7title">Riff 7</string>
+    <string name="riff8title">Riff 8</string>
+    <string name="riff9title">Riff 9</string>
+    <string name="riff10title">Riff 10</string>
+    <string name="subActivityHint">Turn the device sideways to make the tablature bigger.</string>
+    <string name="credits">Design, development, and guitar work by Alex Totheroh. </string>
+    <string name="email">alextotheroh@gmail.com</string>
+    
+    <string name="banner_ad_unit_id_main">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="homebanner">ca-app-pub-5732286704167742/6890768114</string>
+    <string name="riff1banner">ca-app-pub-5732286704167742/4462323312</string>
+    <string name="riff2banner">ca-app-pub-5732286704167742/5939056513</string>
+    <string name="riff3banner">ca-app-pub-5732286704167742/7415789714</string>
+    <string name="riff4banner">ca-app-pub-5732286704167742/8892522911</string>
+    <string name="riff5banner">ca-app-pub-5732286704167742/1369256112</string>
+    <string name="riff6banner">ca-app-pub-5732286704167742/4322722515</string>
+    <string name="riff7banner">ca-app-pub-5732286704167742/5799455713</string>
+    <string name="riff8banner">ca-app-pub-5732286704167742/7276188913</string>
+    <string name="riff9banner">ca-app-pub-5732286704167742/6890768114</string>
+    <string name="riff10banner">ca-app-pub-5732286704167742/8752922113</string>
+    
+    
+
+</resources>

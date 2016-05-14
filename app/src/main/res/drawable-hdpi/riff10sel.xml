@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?> 
+
+<!-- see riff1sel.xml for more detailed comments, this file is 
+nearly identical to that one. 
+-->
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android"> 
+    <item android:state_focused="true" android:state_pressed="false" android:drawable="@drawable/riff10button" /> 
+    <item android:state_focused="true" android:state_pressed="true" android:drawable="@drawable/riff10buttondown" /> 
+    <item android:state_focused="false" android:state_pressed="true" android:drawable="@drawable/riff10buttondown" /> 
+    <item android:drawable="@drawable/riff10button" /> 
+</selector>

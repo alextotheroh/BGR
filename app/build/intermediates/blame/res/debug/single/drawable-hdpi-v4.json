@@ -1,0 +1,570 @@
+[
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\riff3tab.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\riff3tab.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_route_on_0_mono_dark.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\ic_media_route_on_0_mono_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_on_2_light.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\ic_cast_on_2_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_play.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\ic_media_play.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_icon_disabled_focus_light.9.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\riff7buttondown.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\riff7buttondown.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_text_disabled_dark.9.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable-hdpi\\common_signin_btn_text_disabled_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\riff8sel.xml",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\riff8sel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\riff7tab.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\riff7tab.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\riff1buttondown.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\riff1buttondown.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\riff1sel.xml",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\riff1sel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\riff8button.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\riff8button.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_text_disabled_focus_light.9.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable-hdpi\\common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_icon_disabled_focus_dark.9.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_icon_disabled_light.9.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_icon_focus_light.9.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable-hdpi\\common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_setting_dark.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\ic_setting_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\riff2button.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\riff2button.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\powered_by_google_light.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.1.0\\res\\drawable-hdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\riff5sel.xml",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\riff5sel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\riff9button.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\riff9button.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\riff8buttondown.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\riff8buttondown.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\riff2tab.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\riff2tab.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_setting_light.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\ic_setting_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\backbuttonraw.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\backbuttonraw.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_pause_dark.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\ic_pause_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\riff6tab.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\riff6tab.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_route_on_1_mono_dark.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\ic_media_route_on_1_mono_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\riff9sel.xml",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\riff9sel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\playbuttonsel.xml",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\playbuttonsel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_on_1_light.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\ic_cast_on_1_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_icon_normal_dark.9.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable-hdpi\\common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\riff6buttondown.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\riff6buttondown.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_icon_disabled_dark.9.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable-hdpi\\common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_standard_off_client.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.1.0\\res\\drawable-hdpi\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_text_focus_light.9.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable-hdpi\\common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\playbuttondown.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\playbuttondown.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mr_ic_audio_vol.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\mr_ic_audio_vol.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\riff2sel.xml",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\riff2sel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_text_disabled_focus_dark.9.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable-hdpi\\common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_text_normal_light.9.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable-hdpi\\common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_icon_focus_dark.9.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable-hdpi\\common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\riff6sel.xml",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\riff6sel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_dark.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\ic_cast_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\riff4buttondown.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\riff4buttondown.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_icon_pressed_light.9.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable-hdpi\\common_signin_btn_icon_pressed_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_text_normal_dark.9.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable-hdpi\\common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_ic_googleplayservices.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-hdpi\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_off_light.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\ic_cast_off_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_text_focus_dark.9.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable-hdpi\\common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_notification_2.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.1.0\\res\\drawable-hdpi\\cast_ic_notification_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\backbuttondown.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\backbuttondown.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\riff5tab.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\riff5tab.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\riff1tab.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\riff1tab.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\riff9buttondown.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\riff9buttondown.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_text_pressed_dark.9.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable-hdpi\\common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\riff2buttondown.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\riff2buttondown.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_notification_1.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.1.0\\res\\drawable-hdpi\\cast_ic_notification_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\riff7button.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\riff7button.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_small_off_client.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.1.0\\res\\drawable-hdpi\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_on_light.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\ic_cast_on_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_tall_off_client.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.1.0\\res\\drawable-hdpi\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\riff9tab.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\riff9tab.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\riff10button.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\riff10button.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\riff1button.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\riff1button.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\riff3sel.xml",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\riff3sel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_cursor_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_text_cursor_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_on_0_light.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\ic_cast_on_0_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\riff7sel.xml",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\riff7sel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\underline.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\underline.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_text_pressed_light.9.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable-hdpi\\common_signin_btn_text_pressed_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_route_disabled_mono_dark.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\ic_media_route_disabled_mono_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_route_on_mono_dark.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\ic_media_route_on_mono_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-hdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_notification_0.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.1.0\\res\\drawable-hdpi\\cast_ic_notification_0.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_medium_off_client.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\8.1.0\\res\\drawable-hdpi\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\riff10buttondown.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\riff10buttondown.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_route_off_mono_dark.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\ic_media_route_off_mono_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\riff4tab.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\riff4tab.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\riff6button.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\riff6button.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_light.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\ic_cast_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_play_light.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\ic_play_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\powered_by_google_dark.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.1.0\\res\\drawable-hdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\riff3buttondown.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\riff3buttondown.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_pause_light.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\ic_pause_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\riff8tab.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\riff8tab.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\riff3button.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\riff3button.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_notification_on.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.1.0\\res\\drawable-hdpi\\cast_ic_notification_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_play_dark.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\ic_play_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_icon_normal_light.9.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable-hdpi\\common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_route_on_2_mono_dark.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\ic_media_route_on_2_mono_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\riff4button.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\riff4button.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\backbuttonsel.xml",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\backbuttonsel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\riff5buttondown.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\riff5buttondown.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\riff5button.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\riff5button.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\riff10tab.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\riff10tab.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\riff10sel.xml",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\riff10sel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_disabled_light.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\ic_cast_disabled_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_text_disabled_light.9.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable-hdpi\\common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\drawable-hdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_pause.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable-hdpi\\ic_media_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_signin_btn_icon_pressed_dark.9.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.1.0\\res\\drawable-hdpi\\common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\riff4sel.xml",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\riff4sel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\playbuttonraw.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\drawable-hdpi\\playbuttonraw.png"
+    }
+]
