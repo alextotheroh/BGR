@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-uz-rUZ\\values-uz-rUZ.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 280,
+                    "endOffset": 381
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-uz-rUZ\\common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 284,
+                        "endOffset": 450
+                    }
+                }
+            }
+        ]
+    }
+]

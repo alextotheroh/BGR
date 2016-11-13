@@ -76,12 +76,16 @@
         "source": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\drawable-hdpi\\riff7buttondown.png"
     },
     {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\riff1button.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\drawable-hdpi\\riff1button.png"
+    },
+    {
         "merged": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\riff5tab.png",
         "source": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\drawable-hdpi\\riff5tab.png"
     },
     {
-        "merged": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\riff1button.png",
-        "source": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\drawable-hdpi\\riff1button.png"
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\riff6button.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\drawable-hdpi\\riff6button.png"
     },
     {
         "merged": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\riff1buttondown.png",
@@ -92,32 +96,28 @@
         "source": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\drawable-hdpi\\riff6buttondown.png"
     },
     {
-        "merged": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\riff6button.png",
-        "source": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\drawable-hdpi\\riff6button.png"
-    },
-    {
         "merged": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\riff1tab.png",
         "source": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\drawable-hdpi\\riff1tab.png"
-    },
-    {
-        "merged": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\riff3tab.png",
-        "source": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\drawable-hdpi\\riff3tab.png"
     },
     {
         "merged": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\underline.png",
         "source": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\drawable-hdpi\\underline.png"
     },
     {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\riff3tab.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\drawable-hdpi\\riff3tab.png"
+    },
+    {
         "merged": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\riff2button.png",
         "source": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\drawable-hdpi\\riff2button.png"
     },
     {
-        "merged": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\riff2tab.png",
-        "source": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\drawable-hdpi\\riff2tab.png"
-    },
-    {
         "merged": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\riff10buttondown.png",
         "source": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\drawable-hdpi\\riff10buttondown.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\riff2tab.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\drawable-hdpi\\riff2tab.png"
     },
     {
         "merged": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\backbuttonraw.png",

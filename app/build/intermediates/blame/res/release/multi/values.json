@@ -1,0 +1,1134 @@
+[
+    {
+        "outputFile": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 68,
+                    "endOffset": 169
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 68,
+                        "endOffset": 121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 174,
+                    "endColumn": 62,
+                    "endOffset": 232
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 127,
+                        "endColumn": 62,
+                        "endOffset": 185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 776,
+                    "endColumn": 57,
+                    "endOffset": 829
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 834,
+                    "endColumn": 55,
+                    "endOffset": 885
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 890,
+                    "endColumn": 66,
+                    "endOffset": 952
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values\\version.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 66,
+                        "endOffset": 117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 957,
+                    "endColumn": 109,
+                    "endOffset": 1062
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 463,
+                        "endColumn": 109,
+                        "endOffset": 568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1067,
+                    "endColumn": 41,
+                    "endOffset": 1104
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\8.4.0\\res\\values\\admob_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 210,
+                        "endColumn": 41,
+                        "endOffset": 247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1109,
+                    "endColumn": 52,
+                    "endOffset": 1157
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 574,
+                        "endColumn": 52,
+                        "endOffset": 622
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1162,
+                    "endColumn": 55,
+                    "endOffset": 1213
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 406,
+                        "endColumn": 55,
+                        "endOffset": 457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1218,
+                    "endColumn": 53,
+                    "endOffset": 1267
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 351,
+                        "endColumn": 53,
+                        "endOffset": 400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1272,
+                    "endColumn": 91,
+                    "endOffset": 1359
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values\\auth_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 253,
+                        "endColumn": 91,
+                        "endOffset": 340
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1364,
+                    "endColumn": 87,
+                    "endOffset": 1447
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values\\auth_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 87,
+                        "endOffset": 192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1452,
+                    "endColumn": 52,
+                    "endOffset": 1500
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1420,
+                        "endColumn": 52,
+                        "endOffset": 1468
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1505,
+                    "endColumn": 89,
+                    "endOffset": 1590
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2156,
+                        "endColumn": 89,
+                        "endOffset": 2241
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1595,
+                    "endColumn": 218,
+                    "endOffset": 1809
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values\\common_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 242,
+                        "endColumn": 222,
+                        "endOffset": 460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1814,
+                    "endColumn": 88,
+                    "endOffset": 1898
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\8.4.0\\res\\values\\admob_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 368,
+                        "endColumn": 88,
+                        "endOffset": 452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1903,
+                    "endColumn": 71,
+                    "endOffset": 1970
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\8.4.0\\res\\values\\admob_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 296,
+                        "endColumn": 71,
+                        "endOffset": 363
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1975,
+                    "endColumn": 91,
+                    "endOffset": 2062
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1999,
+                        "endColumn": 91,
+                        "endOffset": 2086
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2067,
+                    "endColumn": 43,
+                    "endOffset": 2106
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\8.4.0\\res\\values\\admob_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 252,
+                        "endColumn": 43,
+                        "endOffset": 291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2111,
+                    "endColumn": 56,
+                    "endOffset": 2163
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2092,
+                        "endColumn": 56,
+                        "endOffset": 2144
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2168,
+                    "endColumn": 52,
+                    "endOffset": 2216
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 692,
+                        "endColumn": 52,
+                        "endOffset": 740
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2221,
+                    "endColumn": 77,
+                    "endOffset": 2294
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2247,
+                        "endColumn": 77,
+                        "endOffset": 2320
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2299,
+                    "endColumn": 43,
+                    "endOffset": 2338
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1375,
+                        "endColumn": 43,
+                        "endOffset": 1414
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2343,
+                    "endColumn": 79,
+                    "endOffset": 2418
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 3046,
+                        "endColumn": 79,
+                        "endOffset": 3121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2423,
+                    "endColumn": 47,
+                    "endOffset": 2466
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1850,
+                        "endColumn": 47,
+                        "endOffset": 1893
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2471,
+                    "endColumn": 78,
+                    "endOffset": 2545
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2326,
+                        "endColumn": 78,
+                        "endOffset": 2400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2550,
+                    "endColumn": 45,
+                    "endOffset": 2591
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1324,
+                        "endColumn": 45,
+                        "endOffset": 1365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2596,
+                    "endColumn": 78,
+                    "endOffset": 2670
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2406,
+                        "endColumn": 78,
+                        "endOffset": 2480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2675,
+                    "endColumn": 45,
+                    "endOffset": 2716
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1474,
+                        "endColumn": 45,
+                        "endOffset": 1515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2721,
+                    "endColumn": 78,
+                    "endOffset": 2795
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2486,
+                        "endColumn": 78,
+                        "endOffset": 2560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2800,
+                    "endColumn": 45,
+                    "endOffset": 2841
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1521,
+                        "endColumn": 45,
+                        "endOffset": 1562
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2846,
+                    "endColumn": 78,
+                    "endOffset": 2920
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 2566,
+                        "endColumn": 78,
+                        "endOffset": 2640
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2925,
+                    "endColumn": 45,
+                    "endOffset": 2966
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1568,
+                        "endColumn": 45,
+                        "endOffset": 1609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2971,
+                    "endColumn": 78,
+                    "endOffset": 3045
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2646,
+                        "endColumn": 78,
+                        "endOffset": 2720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 3050,
+                    "endColumn": 45,
+                    "endOffset": 3091
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1615,
+                        "endColumn": 45,
+                        "endOffset": 1656
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 3096,
+                    "endColumn": 78,
+                    "endOffset": 3170
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2726,
+                        "endColumn": 78,
+                        "endOffset": 2800
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3175,
+                    "endColumn": 45,
+                    "endOffset": 3216
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1662,
+                        "endColumn": 45,
+                        "endOffset": 1703
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3221,
+                    "endColumn": 78,
+                    "endOffset": 3295
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 2806,
+                        "endColumn": 78,
+                        "endOffset": 2880
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3300,
+                    "endColumn": 45,
+                    "endOffset": 3341
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1709,
+                        "endColumn": 45,
+                        "endOffset": 1750
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3346,
+                    "endColumn": 78,
+                    "endOffset": 3420
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 2886,
+                        "endColumn": 78,
+                        "endOffset": 2960
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3425,
+                    "endColumn": 45,
+                    "endOffset": 3466
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1756,
+                        "endColumn": 45,
+                        "endOffset": 1797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3471,
+                    "endColumn": 78,
+                    "endOffset": 3545
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 2966,
+                        "endColumn": 78,
+                        "endOffset": 3040
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3550,
+                    "endColumn": 45,
+                    "endOffset": 3591
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1803,
+                        "endColumn": 45,
+                        "endOffset": 1844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3596,
+                    "endColumn": 95,
+                    "endOffset": 3687
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\8.4.0\\res\\values\\admob_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 114,
+                        "endColumn": 95,
+                        "endOffset": 205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3692,
+                    "endColumn": 58,
+                    "endOffset": 3746
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\8.4.0\\res\\values\\admob_strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 58,
+                        "endOffset": 109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3751,
+                    "endColumn": 98,
+                    "endOffset": 3845
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1899,
+                        "endColumn": 98,
+                        "endOffset": 1993
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3850,
+                    "endColumn": 62,
+                    "endOffset": 3908
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 628,
+                        "endColumn": 62,
+                        "endOffset": 686
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 3913,
+                    "endColumn": 64,
+                    "endOffset": 3973
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1258,
+                        "endColumn": 64,
+                        "endOffset": 1318
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 3978,
+                    "endColumn": 62,
+                    "endOffset": 4036
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 746,
+                        "endColumn": 62,
+                        "endOffset": 804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 4041,
+                    "endColumn": 62,
+                    "endOffset": 4099
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 810,
+                        "endColumn": 62,
+                        "endOffset": 868
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4104,
+                    "endColumn": 62,
+                    "endOffset": 4162
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 874,
+                        "endColumn": 62,
+                        "endOffset": 932
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4167,
+                    "endColumn": 62,
+                    "endOffset": 4225
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 938,
+                        "endColumn": 62,
+                        "endOffset": 996
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4230,
+                    "endColumn": 62,
+                    "endOffset": 4288
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1002,
+                        "endColumn": 62,
+                        "endOffset": 1060
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 4293,
+                    "endColumn": 62,
+                    "endOffset": 4351
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1066,
+                        "endColumn": 62,
+                        "endOffset": 1124
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4356,
+                    "endColumn": 62,
+                    "endOffset": 4414
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1130,
+                        "endColumn": 62,
+                        "endOffset": 1188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 4419,
+                    "endColumn": 62,
+                    "endOffset": 4477
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1194,
+                        "endColumn": 62,
+                        "endOffset": 1252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 4482,
+                    "endLine": 70,
+                    "endColumn": 12,
+                    "endOffset": 4779
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 4784,
+                    "endLine": 73,
+                    "endColumn": 12,
+                    "endOffset": 4939
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 533,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 690
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 4944,
+                    "endLine": 81,
+                    "endColumn": 10,
+                    "endOffset": 5363
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads\\8.4.0\\res\\values\\admob_iap_style.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 2,
+                        "startOffset": 53,
+                        "endLine": 9,
+                        "endColumn": 10,
+                        "endOffset": 472
+                    }
+                }
+            }
+        ]
+    }
+]

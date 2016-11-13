@@ -20,7 +20,7 @@ which has more detailed comments.  See activity_riff1.xml for more detailed comm
 <LinearLayout
     android:id="@+id/LinearLayout2"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content"
+    android:layout_height="match_parent"
     android:orientation="vertical"
     android:paddingBottom="@dimen/activity_vertical_margin"
     android:paddingLeft="@dimen/activity_horizontal_margin"
@@ -28,6 +28,7 @@ which has more detailed comments.  See activity_riff1.xml for more detailed comm
     android:paddingTop="@dimen/activity_vertical_margin">
 
     <TextView
+		android:id="@+id/riffTitle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
@@ -49,7 +50,7 @@ which has more detailed comments.  See activity_riff1.xml for more detailed comm
         android:id="@+id/imageView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="-20dp"
+        android:layout_marginTop="0dp"
         android:src="@drawable/riff2tab" />
 
     <Button
@@ -72,7 +73,7 @@ which has more detailed comments.  See activity_riff1.xml for more detailed comm
 
     <Button
         android:id="@+id/backbutton"
-        android:layout_marginTop="175dp"
+        android:layout_marginTop="3dp"
         android:layout_width="66dp"
 		android:layout_height="62dp"
         android:background="@drawable/backbuttonsel"

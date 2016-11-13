@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-te-rIN\\values-te-rIN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 226,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-te-rIN\\common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 230,
+                        "endOffset": 396
+                    }
+                }
+            }
+        ]
+    }
+]

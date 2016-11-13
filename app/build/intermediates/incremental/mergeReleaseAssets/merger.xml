@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="23.2.1"><source path="C:\Users\Alex\StudioProjects\BGR\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\assets"/></dataSet><dataSet config="main"><source path="C:\Users\Alex\StudioProjects\BGR\app\src\main\assets"/><source path="C:\Users\Alex\StudioProjects\BGR\app\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="C:\Users\Alex\StudioProjects\BGR\app\src\release\assets"/></dataSet></merger>

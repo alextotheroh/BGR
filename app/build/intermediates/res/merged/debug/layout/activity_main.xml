@@ -203,6 +203,19 @@ Part of: BluesGuitarRiffs, refers to MainActivity.java
 		       	    android:text="" />
 		
 		   	</GridLayout>
+
+			<!-- Include link to BGR ROCKSTAR edition -->
+			<Button
+				android:id="@+id/goToBGRRockstar"
+				style="?android:attr/buttonStyleSmall"
+				android:layout_width="300dp"
+				android:layout_height="wrap_content"
+				android:layout_gravity="center_horizontal"
+				android:layout_marginTop="20dp"
+				android:textSize="20sp"
+				android:backgroundTint="@color/bgrPremiumButtonColor"
+				android:text="Hate the ads? Want more riffs? Try the ROCKSTAR edition for 50 riffs!"
+				android:visibility="visible" />
     	
 	    	<Button
 	    	    android:id="@+id/ratebeg"
@@ -210,9 +223,9 @@ Part of: BluesGuitarRiffs, refers to MainActivity.java
 	    	    android:layout_width="300dp"
 	    	    android:layout_height="50dp"
 	    	    android:layout_gravity="center_horizontal"
-	    	    android:layout_marginTop="30dp"
+	    	    android:layout_marginTop="20dp"
 	    	    android:textSize="9dp"
-	    	    android:backgroundTint="@color/wallet_holo_blue_light"
+	    	    android:backgroundTint="@color/holo_blue_light"
 	    	    android:text="I&apos;m a one-man operation.  Help me out by rating this app! (tap here)"
 	    	    android:visibility="visible" />
 	    	
@@ -226,19 +239,6 @@ Part of: BluesGuitarRiffs, refers to MainActivity.java
 	    	    android:layout_gravity="center"
 	    	    android:visibility="visible"
 	    	    android:text="(or tap here to get rid of this shameless button)" />
-
-			<!-- Include link to BGR ROCKSTAR edition -->
-			<Button
-				android:id="@+id/goToBGRRockstar"
-				style="?android:attr/buttonStyleSmall"
-				android:layout_width="300dp"
-				android:layout_height="50dp"
-				android:layout_gravity="center_horizontal"
-				android:layout_marginTop="30dp"
-				android:textSize="9dp"
-				android:backgroundTint="@color/bgrPremiumButtonColor"
-				android:text="Try the ROCKSTAR edition for 50 riffs! (tap here)"
-				android:visibility="visible" />
 
 
 	    	<!-- The following 4 containers lay out the credits at the bottom of the home page -->

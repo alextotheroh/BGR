@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "edu.indiana.bluesguitarriffs"
-        minSdkVersion 14
+        minSdkVersion 16
         targetSdkVersion 21
     }
 
@@ -20,5 +20,5 @@ android {
 
 dependencies {
     compile 'com.android.support:support-v4:23.2.1'
-    compile 'com.google.android.gms:play-services:+'
+    compile 'com.google.android.gms:play-services-ads:8.4.0'
 }

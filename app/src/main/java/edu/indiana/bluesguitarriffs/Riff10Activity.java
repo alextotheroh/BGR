@@ -15,6 +15,7 @@ package edu.indiana.bluesguitarriffs;
 
 import android.app.Activity;
 import android.content.Intent;
+import android.content.res.Configuration;
 import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.view.Menu;
@@ -22,6 +23,8 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
+import android.widget.TextView;
+
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 
@@ -53,6 +56,15 @@ public class Riff10Activity extends Activity {
             	Riff10Activity.this.startActivity(goBackIntent); // goes back to main screen
             }
         });
+
+		// hide instructions if in landscape
+		if (getResources().getConfiguration().orientation == Configuration.ORIENTATION_LANDSCAPE) {
+			TextView instructions = (TextView) findViewById(R.id.textView1);
+			instructions.setVisibility(View.GONE);
+		} else {
+			TextView instructions = (TextView) findViewById(R.id.textView1);
+			instructions.setVisibility(View.VISIBLE);
+		}
         
         AdView mAdView = (AdView) findViewById(R.id.adView);
         AdRequest adRequest = new AdRequest.Builder().build();
