@@ -227,6 +227,20 @@ Part of: BluesGuitarRiffs, refers to MainActivity.java
 	    	    android:visibility="visible"
 	    	    android:text="(or tap here to get rid of this shameless button)" />
 
+			<!-- Include link to BGR ROCKSTAR edition -->
+			<Button
+				android:id="@+id/goToBGRRockstar"
+				style="?android:attr/buttonStyleSmall"
+				android:layout_width="300dp"
+				android:layout_height="50dp"
+				android:layout_gravity="center_horizontal"
+				android:layout_marginTop="30dp"
+				android:textSize="9dp"
+				android:backgroundTint="@color/bgrPremiumButtonColor"
+				android:text="Try the ROCKSTAR edition for 50 riffs! (tap here)"
+				android:visibility="visible" />
+
+
 	    	<!-- The following 4 containers lay out the credits at the bottom of the home page -->
 	    	<!-- I shamelessly included my name and email address in case someone wants to offer me an awesome job.  Can't hurt, right! -->
 	    	<TextView

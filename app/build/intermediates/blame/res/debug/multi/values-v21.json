@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\values-v21\\values-v21.xml",
+        "outputFile": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 141
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 301,
+                        "startOffset": 55,
                         "endColumn": 90,
-                        "endOffset": 387
+                        "endOffset": 141
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 244
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 392,
+                        "startOffset": 146,
                         "endColumn": 102,
-                        "endOffset": 490
+                        "endOffset": 244
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 347
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 495,
+                        "startOffset": 249,
                         "endColumn": 102,
-                        "endOffset": 593
+                        "endOffset": 347
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 452
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 598,
+                        "startOffset": 352,
                         "endColumn": 104,
-                        "endOffset": 698
+                        "endOffset": 452
                     }
                 }
             },
@@ -87,13 +87,13 @@
                     "endOffset": 559
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 703,
+                        "startOffset": 457,
                         "endColumn": 106,
-                        "endOffset": 805
+                        "endOffset": 559
                     }
                 }
             },
@@ -106,13 +106,13 @@
                     "endOffset": 668
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 810,
+                        "startOffset": 564,
                         "endColumn": 108,
-                        "endOffset": 914
+                        "endOffset": 668
                     }
                 }
             },
@@ -125,13 +125,13 @@
                     "endOffset": 777
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 919,
+                        "startOffset": 673,
                         "endColumn": 108,
-                        "endOffset": 1023
+                        "endOffset": 777
                     }
                 }
             },
@@ -144,13 +144,13 @@
                     "endOffset": 886
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 1028,
+                        "startOffset": 782,
                         "endColumn": 108,
-                        "endOffset": 1132
+                        "endOffset": 886
                     }
                 }
             },
@@ -163,13 +163,13 @@
                     "endOffset": 995
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 1137,
+                        "startOffset": 891,
                         "endColumn": 108,
-                        "endOffset": 1241
+                        "endOffset": 995
                     }
                 }
             },
@@ -182,13 +182,13 @@
                     "endOffset": 1104
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1246,
+                        "startOffset": 1000,
                         "endColumn": 108,
-                        "endOffset": 1350
+                        "endOffset": 1104
                     }
                 }
             },
@@ -201,13 +201,13 @@
                     "endOffset": 1211
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1355,
+                        "startOffset": 1109,
                         "endColumn": 106,
-                        "endOffset": 1457
+                        "endOffset": 1211
                     }
                 }
             },
@@ -220,13 +220,13 @@
                     "endOffset": 1314
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1462,
+                        "startOffset": 1216,
                         "endColumn": 102,
-                        "endOffset": 1560
+                        "endOffset": 1314
                     }
                 }
             },
@@ -239,13 +239,13 @@
                     "endOffset": 1433
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1565,
+                        "startOffset": 1319,
                         "endColumn": 118,
-                        "endOffset": 1679
+                        "endOffset": 1433
                     }
                 }
             },
@@ -259,14 +259,14 @@
                     "endOffset": 1588
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 19,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1925,
-                        "endLine": 20,
+                        "startOffset": 1438,
+                        "endLine": 16,
                         "endColumn": 12,
-                        "endOffset": 2075
+                        "endOffset": 1588
                     }
                 }
             },
@@ -280,14 +280,14 @@
                     "endOffset": 1743
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 21,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 2080,
-                        "endLine": 22,
+                        "startOffset": 1593,
+                        "endLine": 18,
                         "endColumn": 12,
-                        "endOffset": 2230
+                        "endOffset": 1743
                     }
                 }
             },
@@ -300,13 +300,13 @@
                     "endOffset": 1848
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 25,
+                        "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 2481,
+                        "startOffset": 1748,
                         "endColumn": 104,
-                        "endOffset": 2581
+                        "endOffset": 1848
                     }
                 }
             },
@@ -319,13 +319,13 @@
                     "endOffset": 1969
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 26,
+                        "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 2586,
+                        "startOffset": 1853,
                         "endColumn": 120,
-                        "endOffset": 2702
+                        "endOffset": 1969
                     }
                 }
             },
@@ -338,13 +338,13 @@
                     "endOffset": 2070
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 27,
+                        "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 2707,
+                        "startOffset": 1974,
                         "endColumn": 100,
-                        "endOffset": 2803
+                        "endOffset": 2070
                     }
                 }
             },
@@ -358,14 +358,14 @@
                     "endOffset": 2217
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 30,
+                        "startLine": 22,
                         "startColumn": 4,
-                        "startOffset": 3049,
-                        "endLine": 31,
+                        "startOffset": 2075,
+                        "endLine": 23,
                         "endColumn": 12,
-                        "endOffset": 3191
+                        "endOffset": 2217
                     }
                 }
             },
@@ -379,14 +379,14 @@
                     "endOffset": 2358
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 32,
+                        "startLine": 24,
                         "startColumn": 4,
-                        "startOffset": 3196,
-                        "endLine": 33,
+                        "startOffset": 2222,
+                        "endLine": 25,
                         "endColumn": 12,
-                        "endOffset": 3332
+                        "endOffset": 2358
                     }
                 }
             },
@@ -399,13 +399,13 @@
                     "endOffset": 2461
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 36,
+                        "startLine": 26,
                         "startColumn": 4,
-                        "startOffset": 3583,
+                        "startOffset": 2363,
                         "endColumn": 102,
-                        "endOffset": 3681
+                        "endOffset": 2461
                     }
                 }
             },
@@ -418,13 +418,13 @@
                     "endOffset": 2580
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 37,
+                        "startLine": 27,
                         "startColumn": 4,
-                        "startOffset": 3686,
+                        "startOffset": 2466,
                         "endColumn": 118,
-                        "endOffset": 3800
+                        "endOffset": 2580
                     }
                 }
             },
@@ -437,13 +437,13 @@
                     "endOffset": 2687
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 38,
+                        "startLine": 28,
                         "startColumn": 4,
-                        "startOffset": 3805,
+                        "startOffset": 2585,
                         "endColumn": 106,
-                        "endOffset": 3907
+                        "endOffset": 2687
                     }
                 }
             },
@@ -456,13 +456,13 @@
                     "endOffset": 2790
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 39,
+                        "startLine": 29,
                         "startColumn": 4,
-                        "startOffset": 3912,
+                        "startOffset": 2692,
                         "endColumn": 102,
-                        "endOffset": 4010
+                        "endOffset": 2790
                     }
                 }
             },
@@ -473,17 +473,17 @@
                     "startOffset": 2795,
                     "endLine": 31,
                     "endColumn": 12,
-                    "endOffset": 2937
+                    "endOffset": 2945
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 42,
+                        "startLine": 30,
                         "startColumn": 4,
-                        "startOffset": 4256,
-                        "endLine": 43,
+                        "startOffset": 2795,
+                        "endLine": 31,
                         "endColumn": 12,
-                        "endOffset": 4398
+                        "endOffset": 2945
                     }
                 }
             },
@@ -491,20 +491,20 @@
                 "to": {
                     "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 2942,
+                    "startOffset": 2950,
                     "endLine": 33,
                     "endColumn": 12,
-                    "endOffset": 3092
+                    "endOffset": 3116
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 44,
+                        "startLine": 32,
                         "startColumn": 4,
-                        "startOffset": 4403,
-                        "endLine": 45,
+                        "startOffset": 2950,
+                        "endLine": 33,
                         "endColumn": 12,
-                        "endOffset": 4553
+                        "endOffset": 3116
                     }
                 }
             },
@@ -512,20 +512,20 @@
                 "to": {
                     "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 3097,
+                    "startOffset": 3121,
                     "endLine": 35,
                     "endColumn": 12,
-                    "endOffset": 3263
+                    "endOffset": 3265
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 46,
+                        "startLine": 34,
                         "startColumn": 4,
-                        "startOffset": 4558,
-                        "endLine": 47,
+                        "startOffset": 3121,
+                        "endLine": 35,
                         "endColumn": 12,
-                        "endOffset": 4724
+                        "endOffset": 3265
                     }
                 }
             },
@@ -533,20 +533,20 @@
                 "to": {
                     "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 3268,
+                    "startOffset": 3270,
                     "endLine": 37,
                     "endColumn": 12,
-                    "endOffset": 3412
+                    "endOffset": 3430
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 48,
+                        "startLine": 36,
                         "startColumn": 4,
-                        "startOffset": 4729,
-                        "endLine": 49,
+                        "startOffset": 3270,
+                        "endLine": 37,
                         "endColumn": 12,
-                        "endOffset": 4873
+                        "endOffset": 3430
                     }
                 }
             },
@@ -554,20 +554,20 @@
                 "to": {
                     "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 3417,
+                    "startOffset": 3435,
                     "endLine": 39,
                     "endColumn": 12,
-                    "endOffset": 3577
+                    "endOffset": 3587
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 50,
+                        "startLine": 38,
                         "startColumn": 4,
-                        "startOffset": 4878,
-                        "endLine": 51,
+                        "startOffset": 3435,
+                        "endLine": 39,
                         "endColumn": 12,
-                        "endOffset": 5038
+                        "endOffset": 3587
                     }
                 }
             },
@@ -575,20 +575,20 @@
                 "to": {
                     "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 3582,
+                    "startOffset": 3592,
                     "endLine": 41,
                     "endColumn": 12,
-                    "endOffset": 3734
+                    "endOffset": 3738
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 52,
+                        "startLine": 40,
                         "startColumn": 4,
-                        "startOffset": 5043,
-                        "endLine": 53,
+                        "startOffset": 3592,
+                        "endLine": 41,
                         "endColumn": 12,
-                        "endOffset": 5195
+                        "endOffset": 3738
                     }
                 }
             },
@@ -596,62 +596,39 @@
                 "to": {
                     "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 3739,
-                    "endLine": 43,
-                    "endColumn": 12,
-                    "endOffset": 3885
+                    "startOffset": 3743,
+                    "endColumn": 118,
+                    "endOffset": 3857
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 54,
+                        "startLine": 42,
                         "startColumn": 4,
-                        "startOffset": 5200,
-                        "endLine": 55,
-                        "endColumn": 12,
-                        "endOffset": 5346
+                        "startOffset": 3743,
+                        "endColumn": 118,
+                        "endOffset": 3857
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 44,
+                    "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 3890,
-                    "endLine": 45,
-                    "endColumn": 12,
-                    "endOffset": 4034
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 56,
-                        "startColumn": 4,
-                        "startOffset": 5351,
-                        "endLine": 57,
-                        "endColumn": 12,
-                        "endOffset": 5495
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 46,
-                    "startColumn": 4,
-                    "startOffset": 4039,
+                    "startOffset": 3862,
                     "endLine": 47,
                     "endColumn": 12,
-                    "endOffset": 4183
+                    "endOffset": 4229
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 58,
+                        "startLine": 43,
                         "startColumn": 4,
-                        "startOffset": 5500,
-                        "endLine": 59,
+                        "startOffset": 3862,
+                        "endLine": 47,
                         "endColumn": 12,
-                        "endOffset": 5644
+                        "endOffset": 4229
                     }
                 }
             },
@@ -659,37 +636,20 @@
                 "to": {
                     "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 4188,
-                    "endColumn": 111,
-                    "endOffset": 4295
+                    "startOffset": 4234,
+                    "endLine": 49,
+                    "endColumn": 12,
+                    "endOffset": 4378
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 62,
+                        "startLine": 48,
                         "startColumn": 4,
-                        "startOffset": 5895,
-                        "endColumn": 111,
-                        "endOffset": 6002
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 49,
-                    "startColumn": 4,
-                    "startOffset": 4300,
-                    "endColumn": 146,
-                    "endOffset": 4442
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 65,
-                        "startColumn": 4,
-                        "startOffset": 6248,
-                        "endColumn": 146,
-                        "endOffset": 6390
+                        "startOffset": 4234,
+                        "endLine": 49,
+                        "endColumn": 12,
+                        "endOffset": 4378
                     }
                 }
             },
@@ -697,20 +657,20 @@
                 "to": {
                     "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 4447,
+                    "startOffset": 4383,
                     "endLine": 51,
                     "endColumn": 12,
-                    "endOffset": 4595
+                    "endOffset": 4527
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 66,
+                        "startLine": 50,
                         "startColumn": 4,
-                        "startOffset": 6395,
-                        "endLine": 67,
+                        "startOffset": 4383,
+                        "endLine": 51,
                         "endColumn": 12,
-                        "endOffset": 6543
+                        "endOffset": 4527
                     }
                 }
             },
@@ -718,20 +678,37 @@
                 "to": {
                     "startLine": 52,
                     "startColumn": 4,
-                    "startOffset": 4600,
-                    "endLine": 53,
-                    "endColumn": 12,
-                    "endOffset": 4742
+                    "startOffset": 4532,
+                    "endColumn": 111,
+                    "endOffset": 4639
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 68,
+                        "startLine": 52,
                         "startColumn": 4,
-                        "startOffset": 6548,
-                        "endLine": 69,
-                        "endColumn": 12,
-                        "endOffset": 6690
+                        "startOffset": 4532,
+                        "endColumn": 111,
+                        "endOffset": 4639
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 4644,
+                    "endColumn": 146,
+                    "endOffset": 4786
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 4644,
+                        "endColumn": 146,
+                        "endOffset": 4786
                     }
                 }
             },
@@ -739,37 +716,20 @@
                 "to": {
                     "startLine": 54,
                     "startColumn": 4,
-                    "startOffset": 4747,
-                    "endColumn": 74,
-                    "endOffset": 4817
+                    "startOffset": 4791,
+                    "endLine": 55,
+                    "endColumn": 12,
+                    "endOffset": 4939
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 72,
+                        "startLine": 54,
                         "startColumn": 4,
-                        "startOffset": 6936,
-                        "endColumn": 74,
-                        "endOffset": 7006
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 55,
-                    "startColumn": 4,
-                    "startOffset": 4822,
-                    "endColumn": 88,
-                    "endOffset": 4906
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 73,
-                        "startColumn": 4,
-                        "startOffset": 7011,
-                        "endColumn": 88,
-                        "endOffset": 7095
+                        "startOffset": 4791,
+                        "endLine": 55,
+                        "endColumn": 12,
+                        "endOffset": 4939
                     }
                 }
             },
@@ -777,37 +737,20 @@
                 "to": {
                     "startLine": 56,
                     "startColumn": 4,
-                    "startOffset": 4911,
-                    "endColumn": 86,
-                    "endOffset": 4993
+                    "startOffset": 4944,
+                    "endLine": 57,
+                    "endColumn": 12,
+                    "endOffset": 5086
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 74,
+                        "startLine": 56,
                         "startColumn": 4,
-                        "startOffset": 7100,
-                        "endColumn": 86,
-                        "endOffset": 7182
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 57,
-                    "startColumn": 4,
-                    "startOffset": 4998,
-                    "endColumn": 100,
-                    "endOffset": 5094
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 75,
-                        "startColumn": 4,
-                        "startOffset": 7187,
-                        "endColumn": 100,
-                        "endOffset": 7283
+                        "startOffset": 4944,
+                        "endLine": 57,
+                        "endColumn": 12,
+                        "endOffset": 5086
                     }
                 }
             },
@@ -815,20 +758,115 @@
                 "to": {
                     "startLine": 58,
                     "startColumn": 4,
-                    "startOffset": 5099,
-                    "endLine": 106,
-                    "endColumn": 12,
-                    "endOffset": 8578
+                    "startOffset": 5091,
+                    "endColumn": 74,
+                    "endOffset": 5161
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 76,
+                        "startLine": 58,
                         "startColumn": 4,
-                        "startOffset": 7288,
-                        "endLine": 124,
+                        "startOffset": 5091,
+                        "endColumn": 74,
+                        "endOffset": 5161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 5166,
+                    "endColumn": 88,
+                    "endOffset": 5250
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 5166,
+                        "endColumn": 88,
+                        "endOffset": 5250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 5255,
+                    "endColumn": 86,
+                    "endOffset": 5337
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 5255,
+                        "endColumn": 86,
+                        "endOffset": 5337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 5342,
+                    "endColumn": 100,
+                    "endOffset": 5438
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 5342,
+                        "endColumn": 100,
+                        "endOffset": 5438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 5443,
+                    "endColumn": 102,
+                    "endOffset": 5541
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 5443,
+                        "endColumn": 102,
+                        "endOffset": 5541
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 5546,
+                    "endLine": 106,
+                    "endColumn": 12,
+                    "endOffset": 8609
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 5546,
+                        "endLine": 106,
                         "endColumn": 12,
-                        "endOffset": 10767
+                        "endOffset": 8609
                     }
                 }
             },
@@ -836,20 +874,20 @@
                 "to": {
                     "startLine": 107,
                     "startColumn": 4,
-                    "startOffset": 8583,
+                    "startOffset": 8614,
                     "endLine": 109,
                     "endColumn": 12,
-                    "endOffset": 8764
+                    "endOffset": 8795
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 125,
+                        "startLine": 107,
                         "startColumn": 4,
-                        "startOffset": 10772,
-                        "endLine": 127,
+                        "startOffset": 8614,
+                        "endLine": 109,
                         "endColumn": 12,
-                        "endOffset": 10953
+                        "endOffset": 8795
                     }
                 }
             },
@@ -857,41 +895,83 @@
                 "to": {
                     "startLine": 110,
                     "startColumn": 4,
-                    "startOffset": 8769,
-                    "endLine": 158,
+                    "startOffset": 8800,
+                    "endLine": 153,
                     "endColumn": 12,
-                    "endOffset": 12260
+                    "endOffset": 11875
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 128,
+                        "startLine": 110,
                         "startColumn": 4,
-                        "startOffset": 10958,
-                        "endLine": 176,
+                        "startOffset": 8800,
+                        "endLine": 153,
                         "endColumn": 12,
-                        "endOffset": 14449
+                        "endOffset": 11875
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 159,
+                    "startLine": 154,
                     "startColumn": 4,
-                    "startOffset": 12265,
-                    "endLine": 161,
+                    "startOffset": 11880,
+                    "endLine": 156,
                     "endColumn": 12,
-                    "endOffset": 12458
+                    "endOffset": 12073
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 177,
+                        "startLine": 154,
                         "startColumn": 4,
-                        "startOffset": 14454,
-                        "endLine": 179,
+                        "startOffset": 11880,
+                        "endLine": 156,
                         "endColumn": 12,
-                        "endOffset": 14647
+                        "endOffset": 12073
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 12078,
+                    "endLine": 159,
+                    "endColumn": 12,
+                    "endOffset": 12273
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 157,
+                        "startColumn": 4,
+                        "startOffset": 12078,
+                        "endLine": 159,
+                        "endColumn": 12,
+                        "endOffset": 12273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 12278,
+                    "endLine": 161,
+                    "endColumn": 12,
+                    "endOffset": 12396
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 160,
+                        "startColumn": 4,
+                        "startOffset": 12278,
+                        "endLine": 161,
+                        "endColumn": 12,
+                        "endOffset": 12396
                     }
                 }
             },
@@ -899,20 +979,20 @@
                 "to": {
                     "startLine": 162,
                     "startColumn": 4,
-                    "startOffset": 12463,
+                    "startOffset": 12401,
                     "endLine": 163,
                     "endColumn": 12,
-                    "endOffset": 12581
+                    "endOffset": 12519
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 182,
+                        "startLine": 162,
                         "startColumn": 4,
-                        "startOffset": 14893,
-                        "endLine": 183,
+                        "startOffset": 12401,
+                        "endLine": 163,
                         "endColumn": 12,
-                        "endOffset": 15011
+                        "endOffset": 12519
                     }
                 }
             },
@@ -920,20 +1000,20 @@
                 "to": {
                     "startLine": 164,
                     "startColumn": 4,
-                    "startOffset": 12586,
+                    "startOffset": 12524,
                     "endLine": 165,
                     "endColumn": 12,
-                    "endOffset": 12704
+                    "endOffset": 12632
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 184,
+                        "startLine": 164,
                         "startColumn": 4,
-                        "startOffset": 15016,
-                        "endLine": 185,
+                        "startOffset": 12524,
+                        "endLine": 165,
                         "endColumn": 12,
-                        "endOffset": 15134
+                        "endOffset": 12632
                     }
                 }
             },
@@ -941,41 +1021,41 @@
                 "to": {
                     "startLine": 166,
                     "startColumn": 4,
-                    "startOffset": 12709,
-                    "endLine": 167,
+                    "startOffset": 12637,
+                    "endLine": 168,
                     "endColumn": 12,
-                    "endOffset": 12817
+                    "endOffset": 12815
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 186,
+                        "startLine": 166,
                         "startColumn": 4,
-                        "startOffset": 15139,
-                        "endLine": 187,
+                        "startOffset": 12637,
+                        "endLine": 168,
                         "endColumn": 12,
-                        "endOffset": 15247
+                        "endOffset": 12815
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 168,
+                    "startLine": 169,
                     "startColumn": 4,
-                    "startOffset": 12822,
+                    "startOffset": 12820,
                     "endLine": 170,
                     "endColumn": 12,
-                    "endOffset": 13000
+                    "endOffset": 12946
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 188,
+                        "startLine": 169,
                         "startColumn": 4,
-                        "startOffset": 15252,
-                        "endLine": 190,
+                        "startOffset": 12820,
+                        "endLine": 170,
                         "endColumn": 12,
-                        "endOffset": 15430
+                        "endOffset": 12946
                     }
                 }
             },
@@ -983,39 +1063,20 @@
                 "to": {
                     "startLine": 171,
                     "startColumn": 4,
-                    "startOffset": 13005,
-                    "endLine": 172,
+                    "startOffset": 12951,
+                    "endLine": 173,
                     "endColumn": 12,
-                    "endOffset": 13131
+                    "endOffset": 13147
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 191,
+                        "startLine": 171,
                         "startColumn": 4,
-                        "startOffset": 15435,
-                        "endLine": 192,
+                        "startOffset": 12951,
+                        "endLine": 173,
                         "endColumn": 12,
-                        "endOffset": 15561
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 173,
-                    "startColumn": 4,
-                    "startOffset": 13136,
-                    "endColumn": 116,
-                    "endOffset": 13248
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 193,
-                        "startColumn": 4,
-                        "startOffset": 15566,
-                        "endColumn": 116,
-                        "endOffset": 15678
+                        "endOffset": 13147
                     }
                 }
             },
@@ -1023,18 +1084,18 @@
                 "to": {
                     "startLine": 174,
                     "startColumn": 4,
-                    "startOffset": 13253,
+                    "startOffset": 13152,
                     "endColumn": 88,
-                    "endOffset": 13337
+                    "endOffset": 13236
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 194,
+                        "startLine": 174,
                         "startColumn": 4,
-                        "startOffset": 15683,
+                        "startOffset": 13152,
                         "endColumn": 88,
-                        "endOffset": 15767
+                        "endOffset": 13236
                     }
                 }
             },
@@ -1042,18 +1103,18 @@
                 "to": {
                     "startLine": 175,
                     "startColumn": 4,
-                    "startOffset": 13342,
+                    "startOffset": 13241,
                     "endColumn": 110,
-                    "endOffset": 13448
+                    "endOffset": 13347
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 195,
+                        "startLine": 175,
                         "startColumn": 4,
-                        "startOffset": 15772,
+                        "startOffset": 13241,
                         "endColumn": 110,
-                        "endOffset": 15878
+                        "endOffset": 13347
                     }
                 }
             },
@@ -1061,56 +1122,20 @@
                 "to": {
                     "startLine": 176,
                     "startColumn": 4,
-                    "startOffset": 13453,
-                    "endColumn": 126,
-                    "endOffset": 13575
+                    "startOffset": 13352,
+                    "endLine": 178,
+                    "endColumn": 12,
+                    "endOffset": 13580
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 196,
+                        "startLine": 176,
                         "startColumn": 4,
-                        "startOffset": 15883,
-                        "endColumn": 126,
-                        "endOffset": 16005
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 177,
-                    "startColumn": 4,
-                    "startOffset": 13580,
-                    "endColumn": 100,
-                    "endOffset": 13676
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 197,
-                        "startColumn": 4,
-                        "startOffset": 16010,
-                        "endColumn": 100,
-                        "endOffset": 16106
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 178,
-                    "startColumn": 4,
-                    "startOffset": 13681,
-                    "endColumn": 94,
-                    "endOffset": 13771
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 198,
-                        "startColumn": 4,
-                        "startOffset": 16111,
-                        "endColumn": 94,
-                        "endOffset": 16201
+                        "startOffset": 13352,
+                        "endLine": 178,
+                        "endColumn": 12,
+                        "endOffset": 13580
                     }
                 }
             },
@@ -1118,18 +1143,18 @@
                 "to": {
                     "startLine": 179,
                     "startColumn": 4,
-                    "startOffset": 13776,
-                    "endColumn": 122,
-                    "endOffset": 13894
+                    "startOffset": 13585,
+                    "endColumn": 100,
+                    "endOffset": 13681
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 199,
+                        "startLine": 179,
                         "startColumn": 4,
-                        "startOffset": 16206,
-                        "endColumn": 122,
-                        "endOffset": 16324
+                        "startOffset": 13585,
+                        "endColumn": 100,
+                        "endOffset": 13681
                     }
                 }
             },
@@ -1137,18 +1162,18 @@
                 "to": {
                     "startLine": 180,
                     "startColumn": 4,
-                    "startOffset": 13899,
-                    "endColumn": 128,
-                    "endOffset": 14023
+                    "startOffset": 13686,
+                    "endColumn": 94,
+                    "endOffset": 13776
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 200,
+                        "startLine": 180,
                         "startColumn": 4,
-                        "startOffset": 16329,
-                        "endColumn": 128,
-                        "endOffset": 16453
+                        "startOffset": 13686,
+                        "endColumn": 94,
+                        "endOffset": 13776
                     }
                 }
             },
@@ -1156,18 +1181,18 @@
                 "to": {
                     "startLine": 181,
                     "startColumn": 4,
-                    "startOffset": 14028,
-                    "endColumn": 116,
-                    "endOffset": 14140
+                    "startOffset": 13781,
+                    "endColumn": 122,
+                    "endOffset": 13899
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 201,
+                        "startLine": 181,
                         "startColumn": 4,
-                        "startOffset": 16458,
-                        "endColumn": 116,
-                        "endOffset": 16570
+                        "startOffset": 13781,
+                        "endColumn": 122,
+                        "endOffset": 13899
                     }
                 }
             },
@@ -1175,20 +1200,37 @@
                 "to": {
                     "startLine": 182,
                     "startColumn": 4,
-                    "startOffset": 14145,
-                    "endLine": 183,
-                    "endColumn": 12,
-                    "endOffset": 14275
+                    "startOffset": 13904,
+                    "endColumn": 128,
+                    "endOffset": 14028
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 202,
+                        "startLine": 182,
                         "startColumn": 4,
-                        "startOffset": 16575,
-                        "endLine": 203,
-                        "endColumn": 12,
-                        "endOffset": 16705
+                        "startOffset": 13904,
+                        "endColumn": 128,
+                        "endOffset": 14028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 14033,
+                    "endColumn": 116,
+                    "endOffset": 14145
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 183,
+                        "startColumn": 4,
+                        "startOffset": 14033,
+                        "endColumn": 116,
+                        "endOffset": 14145
                     }
                 }
             },
@@ -1196,41 +1238,39 @@
                 "to": {
                     "startLine": 184,
                     "startColumn": 4,
-                    "startOffset": 14280,
-                    "endLine": 185,
+                    "startOffset": 14150,
+                    "endLine": 186,
                     "endColumn": 12,
-                    "endOffset": 14418
+                    "endOffset": 14322
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 204,
+                        "startLine": 184,
                         "startColumn": 4,
-                        "startOffset": 16710,
-                        "endLine": 205,
+                        "startOffset": 14150,
+                        "endLine": 186,
                         "endColumn": 12,
-                        "endOffset": 16848
+                        "endOffset": 14322
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 186,
+                    "startLine": 187,
                     "startColumn": 4,
-                    "startOffset": 14423,
-                    "endLine": 187,
-                    "endColumn": 12,
-                    "endOffset": 14553
+                    "startOffset": 14327,
+                    "endColumn": 98,
+                    "endOffset": 14421
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 206,
+                        "startLine": 187,
                         "startColumn": 4,
-                        "startOffset": 16853,
-                        "endLine": 207,
-                        "endColumn": 12,
-                        "endOffset": 16983
+                        "startOffset": 14327,
+                        "endColumn": 98,
+                        "endOffset": 14421
                     }
                 }
             },
@@ -1238,20 +1278,20 @@
                 "to": {
                     "startLine": 188,
                     "startColumn": 4,
-                    "startOffset": 14558,
+                    "startOffset": 14426,
                     "endLine": 189,
                     "endColumn": 12,
-                    "endOffset": 14672
+                    "endOffset": 14556
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 208,
+                        "startLine": 188,
                         "startColumn": 4,
-                        "startOffset": 16988,
-                        "endLine": 209,
+                        "startOffset": 14426,
+                        "endLine": 189,
                         "endColumn": 12,
-                        "endOffset": 17102
+                        "endOffset": 14556
                     }
                 }
             },
@@ -1259,20 +1299,41 @@
                 "to": {
                     "startLine": 190,
                     "startColumn": 4,
-                    "startOffset": 14677,
-                    "endLine": 193,
+                    "startOffset": 14561,
+                    "endLine": 191,
                     "endColumn": 12,
-                    "endOffset": 14873
+                    "endOffset": 14699
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 210,
+                        "startLine": 190,
                         "startColumn": 4,
-                        "startOffset": 17107,
-                        "endLine": 213,
+                        "startOffset": 14561,
+                        "endLine": 191,
                         "endColumn": 12,
-                        "endOffset": 17303
+                        "endOffset": 14699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 14704,
+                    "endLine": 193,
+                    "endColumn": 12,
+                    "endOffset": 14834
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 192,
+                        "startColumn": 4,
+                        "startOffset": 14704,
+                        "endLine": 193,
+                        "endColumn": 12,
+                        "endOffset": 14834
                     }
                 }
             },
@@ -1280,20 +1341,20 @@
                 "to": {
                     "startLine": 194,
                     "startColumn": 4,
-                    "startOffset": 14878,
+                    "startOffset": 14839,
                     "endLine": 195,
                     "endColumn": 12,
-                    "endOffset": 14992
+                    "endOffset": 14953
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 214,
+                        "startLine": 194,
                         "startColumn": 4,
-                        "startOffset": 17308,
-                        "endLine": 215,
+                        "startOffset": 14839,
+                        "endLine": 195,
                         "endColumn": 12,
-                        "endOffset": 17422
+                        "endOffset": 14953
                     }
                 }
             },
@@ -1301,98 +1362,98 @@
                 "to": {
                     "startLine": 196,
                     "startColumn": 4,
-                    "startOffset": 14997,
+                    "startOffset": 14958,
+                    "endLine": 199,
+                    "endColumn": 12,
+                    "endOffset": 15154
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 196,
+                        "startColumn": 4,
+                        "startOffset": 14958,
+                        "endLine": 199,
+                        "endColumn": 12,
+                        "endOffset": 15154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 15159,
+                    "endLine": 201,
+                    "endColumn": 12,
+                    "endOffset": 15273
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 200,
+                        "startColumn": 4,
+                        "startOffset": 15159,
+                        "endLine": 201,
+                        "endColumn": 12,
+                        "endOffset": 15273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 15278,
                     "endColumn": 92,
-                    "endOffset": 15085
+                    "endOffset": 15366
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 216,
+                        "startLine": 202,
                         "startColumn": 4,
-                        "startOffset": 17427,
+                        "startOffset": 15278,
                         "endColumn": 92,
-                        "endOffset": 17515
+                        "endOffset": 15366
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 197,
+                    "startLine": 203,
                     "startColumn": 4,
-                    "startOffset": 15090,
+                    "startOffset": 15371,
                     "endColumn": 110,
-                    "endOffset": 15196
+                    "endOffset": 15477
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 217,
+                        "startLine": 203,
                         "startColumn": 4,
-                        "startOffset": 17520,
+                        "startOffset": 15371,
                         "endColumn": 110,
-                        "endOffset": 17626
+                        "endOffset": 15477
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 198,
+                    "startLine": 204,
                     "startColumn": 4,
-                    "startOffset": 15201,
+                    "startOffset": 15482,
                     "endColumn": 55,
-                    "endOffset": 15252
+                    "endOffset": 15533
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 218,
+                        "startLine": 204,
                         "startColumn": 4,
-                        "startOffset": 17631,
+                        "startOffset": 15482,
                         "endColumn": 55,
-                        "endOffset": 17682
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 199,
-                    "startColumn": 4,
-                    "startOffset": 15257,
-                    "endLine": 200,
-                    "endColumn": 12,
-                    "endOffset": 15359
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 219,
-                        "startColumn": 4,
-                        "startOffset": 17687,
-                        "endLine": 220,
-                        "endColumn": 12,
-                        "endOffset": 17789
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 201,
-                    "startColumn": 4,
-                    "startOffset": 15364,
-                    "endLine": 204,
-                    "endColumn": 12,
-                    "endOffset": 15554
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 221,
-                        "startColumn": 4,
-                        "startOffset": 17794,
-                        "endLine": 224,
-                        "endColumn": 12,
-                        "endOffset": 17984
+                        "endOffset": 15533
                     }
                 }
             },
@@ -1400,20 +1461,20 @@
                 "to": {
                     "startLine": 205,
                     "startColumn": 4,
-                    "startOffset": 15559,
+                    "startOffset": 15538,
                     "endLine": 206,
                     "endColumn": 12,
-                    "endOffset": 15665
+                    "endOffset": 15640
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 225,
+                        "startLine": 205,
                         "startColumn": 4,
-                        "startOffset": 17989,
-                        "endLine": 226,
+                        "startOffset": 15538,
+                        "endLine": 206,
                         "endColumn": 12,
-                        "endOffset": 18095
+                        "endOffset": 15640
                     }
                 }
             },
@@ -1421,58 +1482,20 @@
                 "to": {
                     "startLine": 207,
                     "startColumn": 4,
-                    "startOffset": 15670,
-                    "endLine": 208,
+                    "startOffset": 15645,
+                    "endLine": 210,
                     "endColumn": 12,
-                    "endOffset": 15798
+                    "endOffset": 15835
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 227,
+                        "startLine": 207,
                         "startColumn": 4,
-                        "startOffset": 18100,
-                        "endLine": 228,
+                        "startOffset": 15645,
+                        "endLine": 210,
                         "endColumn": 12,
-                        "endOffset": 18228
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 209,
-                    "startColumn": 4,
-                    "startOffset": 15803,
-                    "endColumn": 94,
-                    "endOffset": 15893
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 229,
-                        "startColumn": 4,
-                        "startOffset": 18233,
-                        "endColumn": 94,
-                        "endOffset": 18323
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 210,
-                    "startColumn": 4,
-                    "startOffset": 15898,
-                    "endColumn": 90,
-                    "endOffset": 15984
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
-                    "position": {
-                        "startLine": 230,
-                        "startColumn": 4,
-                        "startOffset": 18328,
-                        "endColumn": 90,
-                        "endOffset": 18414
+                        "endOffset": 15835
                     }
                 }
             },
@@ -1480,20 +1503,60 @@
                 "to": {
                     "startLine": 211,
                     "startColumn": 4,
-                    "startOffset": 15989,
-                    "endLine": 215,
+                    "startOffset": 15840,
+                    "endLine": 212,
                     "endColumn": 12,
-                    "endOffset": 16293
+                    "endOffset": 15946
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 231,
+                        "startLine": 211,
                         "startColumn": 4,
-                        "startOffset": 18419,
-                        "endLine": 235,
+                        "startOffset": 15840,
+                        "endLine": 212,
                         "endColumn": 12,
-                        "endOffset": 18723
+                        "endOffset": 15946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 213,
+                    "startColumn": 4,
+                    "startOffset": 15951,
+                    "endLine": 214,
+                    "endColumn": 12,
+                    "endOffset": 16079
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 213,
+                        "startColumn": 4,
+                        "startOffset": 15951,
+                        "endLine": 214,
+                        "endColumn": 12,
+                        "endOffset": 16079
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 215,
+                    "startColumn": 4,
+                    "startOffset": 16084,
+                    "endColumn": 94,
+                    "endOffset": 16174
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 215,
+                        "startColumn": 4,
+                        "startOffset": 16084,
+                        "endColumn": 94,
+                        "endOffset": 16174
                     }
                 }
             },
@@ -1501,18 +1564,18 @@
                 "to": {
                     "startLine": 216,
                     "startColumn": 4,
-                    "startOffset": 16298,
-                    "endColumn": 112,
-                    "endOffset": 16406
+                    "startOffset": 16179,
+                    "endColumn": 90,
+                    "endOffset": 16265
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 236,
+                        "startLine": 216,
                         "startColumn": 4,
-                        "startOffset": 18728,
-                        "endColumn": 112,
-                        "endOffset": 18836
+                        "startOffset": 16179,
+                        "endColumn": 90,
+                        "endOffset": 16265
                     }
                 }
             },
@@ -1520,18 +1583,18 @@
                 "to": {
                     "startLine": 217,
                     "startColumn": 4,
-                    "startOffset": 16411,
-                    "endColumn": 116,
-                    "endOffset": 16523
+                    "startOffset": 16270,
+                    "endColumn": 90,
+                    "endOffset": 16356
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 237,
+                        "startLine": 217,
                         "startColumn": 4,
-                        "startOffset": 18841,
-                        "endColumn": 116,
-                        "endOffset": 18953
+                        "startOffset": 16270,
+                        "endColumn": 90,
+                        "endOffset": 16356
                     }
                 }
             },
@@ -1539,104 +1602,161 @@
                 "to": {
                     "startLine": 218,
                     "startColumn": 4,
-                    "startOffset": 16528,
-                    "endLine": 219,
-                    "endColumn": 12,
-                    "endOffset": 16662
+                    "startOffset": 16361,
+                    "endColumn": 116,
+                    "endOffset": 16473
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 238,
+                        "startLine": 218,
                         "startColumn": 4,
-                        "startOffset": 18958,
-                        "endLine": 239,
-                        "endColumn": 12,
-                        "endOffset": 19092
+                        "startOffset": 16361,
+                        "endColumn": 116,
+                        "endOffset": 16473
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 220,
+                    "startLine": 219,
                     "startColumn": 4,
-                    "startOffset": 16667,
-                    "endLine": 226,
+                    "startOffset": 16478,
+                    "endLine": 220,
                     "endColumn": 12,
-                    "endOffset": 17015
+                    "endOffset": 16612
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 242,
+                        "startLine": 219,
                         "startColumn": 4,
-                        "startOffset": 19338,
-                        "endLine": 248,
+                        "startOffset": 16478,
+                        "endLine": 220,
                         "endColumn": 12,
-                        "endOffset": 19686
+                        "endOffset": 16612
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 227,
+                    "startLine": 221,
                     "startColumn": 4,
-                    "startOffset": 17020,
-                    "endLine": 233,
+                    "startOffset": 16617,
+                    "endLine": 230,
                     "endColumn": 12,
-                    "endOffset": 17380
+                    "endOffset": 17125
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 249,
+                        "startLine": 221,
                         "startColumn": 4,
-                        "startOffset": 19691,
-                        "endLine": 255,
+                        "startOffset": 16617,
+                        "endLine": 230,
                         "endColumn": 12,
-                        "endOffset": 20051
+                        "endOffset": 17125
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 234,
+                    "startLine": 231,
                     "startColumn": 4,
-                    "startOffset": 17385,
-                    "endLine": 243,
+                    "startOffset": 17130,
+                    "endLine": 240,
                     "endColumn": 12,
-                    "endOffset": 18065
+                    "endOffset": 17650
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 256,
+                        "startLine": 231,
                         "startColumn": 4,
-                        "startOffset": 20056,
-                        "endLine": 265,
+                        "startOffset": 17130,
+                        "endLine": 240,
                         "endColumn": 12,
-                        "endOffset": 20736
+                        "endOffset": 17650
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 244,
+                    "startLine": 241,
                     "startColumn": 4,
-                    "startOffset": 18070,
-                    "endLine": 253,
+                    "startOffset": 17655,
+                    "endLine": 250,
                     "endColumn": 12,
-                    "endOffset": 18751
+                    "endOffset": 18330
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
                     "position": {
-                        "startLine": 266,
+                        "startLine": 241,
                         "startColumn": 4,
-                        "startOffset": 20741,
-                        "endLine": 275,
+                        "startOffset": 17655,
+                        "endLine": 250,
                         "endColumn": 12,
-                        "endOffset": 21422
+                        "endOffset": 18330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 251,
+                    "startColumn": 4,
+                    "startOffset": 18335,
+                    "endColumn": 56,
+                    "endOffset": 18387
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 251,
+                        "startColumn": 4,
+                        "startOffset": 18335,
+                        "endColumn": 56,
+                        "endOffset": 18387
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 252,
+                    "startColumn": 4,
+                    "startOffset": 18392,
+                    "endColumn": 57,
+                    "endOffset": 18445
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 252,
+                        "startColumn": 4,
+                        "startOffset": 18392,
+                        "endColumn": 57,
+                        "endOffset": 18445
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 253,
+                    "startColumn": 4,
+                    "startOffset": 18450,
+                    "endLine": 254,
+                    "endColumn": 8,
+                    "endOffset": 18575
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-appinvite\\9.8.0\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 172,
+                        "endLine": 5,
+                        "endColumn": 8,
+                        "endOffset": 297
                     }
                 }
             }

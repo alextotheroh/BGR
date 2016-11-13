@@ -1,46 +1,46 @@
 [
     {
-        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff1.wav",
-        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\raw\\riff1.wav"
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff2.mp3",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\raw\\riff2.mp3"
     },
     {
-        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
-        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.1.0\\res\\raw\\gtm_analytics"
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff5.mp3",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\raw\\riff5.mp3"
     },
     {
-        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff4.wav",
-        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\raw\\riff4.wav"
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff9.mp3",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\raw\\riff9.mp3"
     },
     {
-        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff8.wav",
-        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\raw\\riff8.wav"
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics-impl\\9.8.0\\res\\raw\\gtm_analytics"
     },
     {
-        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff6.wav",
-        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\raw\\riff6.wav"
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff10.mp3",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\raw\\riff10.mp3"
     },
     {
-        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff9.wav",
-        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\raw\\riff9.wav"
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff7.mp3",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\raw\\riff7.mp3"
     },
     {
-        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff3.wav",
-        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\raw\\riff3.wav"
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff4.mp3",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\raw\\riff4.mp3"
     },
     {
-        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff10.wav",
-        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\raw\\riff10.wav"
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff1.mp3",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\raw\\riff1.mp3"
     },
     {
-        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff2.wav",
-        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\raw\\riff2.wav"
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff3.mp3",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\raw\\riff3.mp3"
     },
     {
-        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff5.wav",
-        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\raw\\riff5.wav"
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff6.mp3",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\raw\\riff6.mp3"
     },
     {
-        "merged": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff7.wav",
-        "source": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\src\\main\\res\\raw\\riff7.wav"
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff8.mp3",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BGR\\app\\src\\main\\res\\raw\\riff8.mp3"
     }
 ]

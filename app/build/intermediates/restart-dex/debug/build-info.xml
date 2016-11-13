@@ -3,29 +3,34 @@
     abi="armeabi-v7a,armeabi"
     api-level="21"
     density="xxhdpi"
-    format="7"
-    timestamp="196979404366724" >
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="83878491133377"
+    token="1879571959833555277"
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="1446" />
+        duration="647" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="1640" />
+        duration="314" />
     <task
         name="verifier"
-        duration="503" />
+        duration="55" />
 
     <artifact
-        location="C:\Users\Alex\StudioProjects\BluesGuitarRiffs1\app\build\outputs\apk\app-debug.apk"
+        location="C:\Users\Alex\StudioProjects\BGR\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
-    <build timestamp="196979404366724" >
+    <build
+        timestamp="83878491133377"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="C:\Users\Alex\StudioProjects\BluesGuitarRiffs1\app\build\outputs\apk\app-debug.apk"
+            location="C:\Users\Alex\StudioProjects\BGR\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
 

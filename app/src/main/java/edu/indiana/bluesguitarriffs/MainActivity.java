@@ -43,6 +43,7 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
         final Button rateBeg = (Button)this.findViewById(R.id.ratebeg);
         final TextView rateDismiss = (TextView)this.findViewById(R.id.dismissRateBeg);
+        final Button bgrRockstarLink = (Button)this.findViewById(R.id.goToBGRRockstar);
         
         // load ad
    	 	AdView mAdView = (AdView) findViewById(R.id.adView);
@@ -203,7 +204,21 @@ public class MainActivity extends Activity {
             }
         });
         
-        
+        // setting up ability to go to ROCKSTAR edition download page
+        bgrRockstarLink.setOnClickListener(new OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                final Uri uri = Uri.parse("market://details?id=edu.indiana.bluesguitarriffsrockstar");
+                final Intent goToRockstarEdition = new Intent(Intent.ACTION_VIEW, uri);
+
+                if (getPackageManager().queryIntentActivities(goToRockstarEdition, 0).size() > 0) {
+                    startActivity(goToRockstarEdition);
+                }
+                else {
+                    Toast.makeText(getApplicationContext(), "Unable to open Marketplace.", Toast.LENGTH_SHORT).show();
+                }
+            }
+        });
         
     }
 
